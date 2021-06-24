@@ -1,0 +1,6 @@
+baseURL = "http://tmprk.github.io/psychopy"
+languageCode = "en-us"
+title = "PsychoPy Log"
+
+[params]
+  BookTheme = 'auto'
