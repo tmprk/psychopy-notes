@@ -4,3 +4,6 @@ title = "PsychoPy Log"
 
 [params]
   BookTheme = 'auto'
+
+[markup.goldmark.renderer]
+  unsafe= true

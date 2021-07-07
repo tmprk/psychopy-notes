@@ -1,7 +1,8 @@
 ---
-headless: true
+headless: false
 ---
 
+- [**Setup**]({{< relref "/docs/setup" >}})
+  - [Mac]({{< relref "/docs/setup/mac-setup" >}})
+  - [Windows]({{< relref "/docs/setup/windows-setup" >}})
 <br />
-- [Setup]({{< relref "/docs/setup" >}})
-- [Visual Search]({{< relref "/docs/setup/visual-search" >}})
